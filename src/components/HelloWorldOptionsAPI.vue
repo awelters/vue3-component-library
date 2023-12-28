@@ -33,8 +33,7 @@ export default defineComponent({
     <button type="button" @click="increment">count is {{ count }}</button>
     <h3>count doubled is: {{ doubleCount }}</h3>
     <p>
-      Edit
-      <code>components/HelloWorldOptionsAPI.vue</code> to test HMR
+      This comes from the vue3 component library
     </p>
   </div>
 </template>
